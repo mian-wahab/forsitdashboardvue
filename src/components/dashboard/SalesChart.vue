@@ -15,7 +15,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
-import LineChart from '@/components/Charts/LineChart.vue'
+import LineChart from '@/components/charts/LineChart.vue'
 import { getSalesData } from '@/services/chartService.js'
 
 const chartData = ref(null)

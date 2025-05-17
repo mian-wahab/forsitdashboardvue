@@ -23,7 +23,7 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
-import LineChart from '@/components/Charts/LineChart.vue'
+import LineChart from '@/components/charts/LineChart.vue'
 import { getSalesComparisonData } from '@/services/chartService.js'
 
 const categoryA = ref('All')

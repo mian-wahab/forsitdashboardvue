@@ -9,8 +9,8 @@
 </template>
 
 <script setup>
-import RevenueSummary from '@/components/Dashboard/RevenueSummary.vue'
-import SalesChart from '@/components/Dashboard/SalesChart.vue'
-import RevenueComparisonChart from '@/components/Dashboard/RevenueComparisonChart.vue'
+import RevenueSummary from '@/components/dashboard/RevenueSummary.vue'
+import SalesChart from '@/components/dashboard/SalesChart.vue'
+import RevenueComparisonChart from '@/components/dashboard/RevenueComparisonChart.vue'
 
 </script>
