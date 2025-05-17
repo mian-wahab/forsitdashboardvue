@@ -1,4 +1,4 @@
-<template class="main-app">
+<template>
   <div class="dashboard-layout">
     <!-- Sidebar -->
     <aside class="sidebar">
